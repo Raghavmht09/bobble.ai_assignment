@@ -1,10 +1,10 @@
 FROM tomcat:latest
 
-MAINTAINER  YASH Sharma <yash99sh@gmail.com>
+MAINTAINER  Raghav Mehta <raghavmht9@gmail.com>
 
 ENV role=app \
      env=dev\
-    name=Yash_Sharma
+    name=raghavmehta
 
 EXPOSE 8080
 
